@@ -33,11 +33,13 @@ The study compares different deep learning architectures designed to balance cla
 
 ```text
 
-│   ├── traffic_sign_recognition.ipynb
-│   └── traffic_sign_recognition.py
+├── traffic_sign_recognition.ipynb
+└── traffic_sign_recognition.py
 │
 │
 └── README.md
+```
+
 
 Jupyter Notebook Version
 Designed for interactive execution and experimentation.
