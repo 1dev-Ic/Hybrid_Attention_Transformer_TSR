@@ -13,8 +13,7 @@ The study compares different deep learning architectures designed to balance cla
 
 ## Author Information
 
-**Author:** Chahyaandida Ishaya  
-**Student ID:** 253307014  
+**Authors:** Chahyaandida Ishaya, Kingsley Yohanna, Habila Bulus   
 **Programme:** MSc. Artificial Intelligence with Thesis  
 **Institution:** Istanbul Okan University  
 **Supervisor:** Prof. HAKAN OCAL  
@@ -106,11 +105,12 @@ This project is intended for academic and educational purposes only.
 
 Acknowledgement
 
-The author acknowledges the guidance and supervision of Dr. MAHSA MIKAEILI during the development of this final project.
+The authors acknowledges the guidance and supervision of Dr. MAHSA MIKAEILI during the development of this final project.
 
-Author
+Authors
 
 Chahyaandida Ishaya
+Kingsley Yohanna
+Habila Bulus
 MSc. Artificial Intelligence with Thesis
 Istanbul Okan University
-Student ID: 253307014
