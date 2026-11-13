@@ -16,8 +16,6 @@ The study compares different deep learning architectures designed to balance cla
 **Authors:** Chahyaandida Ishaya, Kingsley Yohanna, Habila Bulus   
 **Programme:** MSc. Artificial Intelligence with Thesis  
 **Institution:** Istanbul Okan University  
-**Supervisor:** Prof. HAKAN OCAL  
-**Course:** AIE514 - Advanced Machine Learning  
 **Project Type:** Final Project  
 
 ---
